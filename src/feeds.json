@@ -1,10 +1,6 @@
 {
   "feeds": [
-    "https://rsshub.app/aicaijing/latest",
-    "https://hnrss.org/best?count=35",
-    "https://retronauts.com/feed/rss",
-    "https://increment.com/feed.xml",
-    "https://handmade.network/podcast/podcast.xml"
+    "https://rsshub.app/aicaijing/latest"
   ],
   "blogs": [
     "https://xeiaso.net/blog.rss",
